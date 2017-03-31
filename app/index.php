@@ -46,7 +46,7 @@
 
 	if($_ENV["TUTUM_AUTH"]) {
 		?>
-		<h3>I have Tutum API powers!</h3>
+		<h3>This should never happen.</h3>
 		<?php
 	}
 	?>
